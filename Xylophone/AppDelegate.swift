@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 27/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Armin Spahic on 05/01/2018.
+//  Copyright © 2018 Armin Spahic. All rights reserved.
 //
 
 import UIKit
